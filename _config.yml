@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Raymond's Build Guide
+description: Build guide and tips for stuff I've discovered along the way
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://raymondagena.github.io/3D-Guide
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+aux_links: # remove if you don't want this link to appear on your pages
+  Template Repository: https://github.com/raymondagena/3D-Guide
